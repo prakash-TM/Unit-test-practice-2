@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button loading correctly Button should be having label prop 1`] = `
+Array [
+  <p
+    title="Para tab"
+  >
+    My name is 
+    Click me
+  </p>,
+  <button
+    onClick={[Function]}
+    title="This is a new button"
+  >
+    Click me
+  </button>,
+]
+`;

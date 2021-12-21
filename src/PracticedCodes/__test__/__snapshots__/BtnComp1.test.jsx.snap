@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button 1 check passing props to bt1 1`] = `
+<button
+  data-testId="btn1"
+  onClick={[Function]}
+>
+  Before Click
+</button>
+`;
